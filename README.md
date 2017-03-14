@@ -7,11 +7,14 @@ Chaerin Yu, Ms.
 
 > I am a student with the college of IT at Gachon University.  
 
-  ## Programming Skills  
+### Programming Skills  
   * Programming languages  
-­**	JAVA, C, HTML, CSS, Android Programming, jQuery
+­	JAVA, C, HTML, CSS, Android Programming, jQuery
   * Software tools/platforms used  
-­**	Visual Studio, Eclipse, Android Studio,  OpenCV
+­	Visual Studio, Eclipse, Android Studio,  OpenCV
 
 
-  > Prejudice disables me from falling in love with others, and pride shuns others away from me.  
+
+
+
+> Prejudice disables me from falling in love with others, and pride shuns others away from me.  
