@@ -14,9 +14,9 @@ Chaerin Yu, Ms.
 
 
 ### Programming Skills  
-  * Programming languages  
+  * **Programming languages**  
 ­	JAVA, C, HTML, CSS, Android Programming, jQuery
-  * Software tools/platforms used  
+  * **Software tools/platforms used**  
 ­	Visual Studio, Eclipse, Android Studio,  OpenCV
 
 
