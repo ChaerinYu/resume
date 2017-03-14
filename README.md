@@ -1,4 +1,4 @@
 # resume
-**Name**: Chaerin Yu
-**Faculty**: Dept. of Software, Gachon University, Korea
-**Hobby**: Walking and Listening music
+**# Chaerin Yu #**
+:mortar_board: Dept. of Software Design & Management, Gachon University, Seongnam, Korea
+> Prejudice disables me from falling in love with others, and pride shuns others away from me.
