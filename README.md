@@ -1,3 +1,4 @@
 # resume
-이름: 유채린
-학과: 가천대학교 소프트웨어설계경영학과
+**Name**: Chaerin Yu
+**Faculty**: Dept. of Software, Gachon University, Korea
+**Hobby**: Walking and Listening music
