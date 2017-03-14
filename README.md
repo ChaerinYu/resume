@@ -21,12 +21,12 @@ Chaerin Yu, Ms.
 
 
 ### Graduation Project
-  * Project description  
+  * **Project description**  
     Our project name is “SLB”. It means “Smart campus LBS(Location Based Service) with Beacon”. The project comes in the form of mobile application. It can check attendance based on BLE(Bluetooth Low Energy) using Raspberry Pi. Additionally, it provides services that find empty classroom and my classmates and announce shuttlebus in Gachon University.
-  * Languages and tools used  
+  * **Languages and tools used**  
     AWS, EC2, amazon RDS, MySQL, Android Studio, Raspberry Pi, Shell script
-  * Number of lines of code  
+  * **Number of lines of code**  
     About 4500 lines.  
-![graduation_project](\Desktop\새 폴더 (2)\ㅇ.jpg "SLB")
+![graduation_project](\Desktop\새 폴더 (2)\5.jpg "SLB")
 
 > Prejudice disables me from falling in love with others, and pride shuns others away from me.  
